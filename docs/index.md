@@ -1,42 +1,45 @@
 ---
+
 layout: home
 
-title: 李载赣神魔
-titleTemplate: lzgsm1997
-
 hero:
-  name: Hi there 👋
-  text: ' '
-  tagline: Welcome to my blog 我正在努力更新。
-  image:
-    src: /image/avatar.jpg
-    alt: OpenLayers
+  name:  🐤小黄鸭
+  text:  
+  tagline: 欢迎来到我的博客 - 小黄鸭，我是谢夏戈。                  本博客分门别类了 我的笔记，学习路径，教程推荐。
   actions:
     - theme: brand
-      text: 开始
-      link: /pages/start/
-    # - theme: alt
-    #   text: JavaScript
-    #   link: '/pages/JavaScript/variate/'
-    # - theme: alt
-    #   text: HTML
-    #   link: ''
-    # - theme: alt
-    #   text: CSS
-    #   link: ''
-    # - theme: alt
-    #   text: 个人简历
-    #   link: https://raomaiping.host/%E9%A5%B6%E8%BF%88%E5%B9%B3-%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88-3%E5%B9%B4.pdf
-      
+      text: 🐤 小黄鸭
+      link: /About/AboutDuck
+    - theme: alt
+      text: 🥚 初学者
+      link: /FrontEnd/FrontEnd/Tutorial
+    - theme: alt
+      text: 🌽 Project
+      link: /Project/index
+    - theme: alt
+      text: 🏹 Explore
+      link: Explore/2022/
 
 features:
-  - icon: 😎
-    title: 目前更新
-    details: JavaScript , 三分钟学会系列
-  - icon: 👀
-    title: 计划更新
-    details: Vue全家桶 、Vue源码 、http 、node.js ...
-  - icon: 👨‍💻
-    title: 寻求一份工作
-    details: 目前已经离职，想寻求一份前端工程师的工作
+- icon: 📖
+  title: ❌ 笔记还在整理中....
+  details: 往后还要持续翻新笔记，让它更像教程
+- icon: 💻
+  title: 💻 前端 - FrontEnd
+  details: 🟧HTML 🟥CSS 🟨Js 🟦Ts 🟩Vue
+- icon: 🖥️
+  title: 🖥️ 后端 - BackEnd
+  details: ⬜Node + ⬛Express + 🐬MySQL
+- icon: 🧊
+  title: 🧊 部署 - Deploy
+  details: 🥦Nginx 📰GH-Pages
+- icon: 📦
+  title: 📦 数据库 - DataBase
+  details: 🐬MySQL 🍃SQLite 🗄️indexedDB
+- icon: 🕸️
+  title: 🕸️ 爬虫 - Seventeen-A 
+  details: 🐍Python + 🍃SQLite
+
 ---
+
+<br/>
