@@ -2,6 +2,7 @@ export default {
   title: "小黄鸭", //标题
   titleTemplate: "谢夏戈的博客", //标题模板
   description: "XXG-BLOG", //描述
+  base: '/my-blog/',
   lastUpdated: true, //开启上次更新时间
   markdown: {
     theme: "nord",
