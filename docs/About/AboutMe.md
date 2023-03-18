@@ -11,13 +11,13 @@ import {
 
 const members = [
   {
-    avatar: 'https://www.github.com/XXGGG.png',
-    name: '谢夏戈',
-    title: 'XXGGG',
+    avatar: '',
+    name: '李载赣神魔',
+    title: 'lzgsm1997',
     links: [
-      { icon: 'github', link: 'https://github.com/XXGGG' },
-      { icon: 'twitter', link: 'https://twitter.com/TWI_XXGGG' },
-      { icon: 'youtube', link: 'https://space.bilibili.com/5276030' }
+      { icon: 'github', link: 'https://github.com/lzgsm1997' },
+      { icon: '博客园', link: '' },
+      { icon: 'bilibili', link: '' }
     ]
   },
 ]
@@ -26,14 +26,14 @@ const members = [
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>
-      XXG
+      lzgsm1997
     </template>
     <template #lead>
-    <p>👋 我叫谢夏戈，1996年出生，我是一个Coder！</p>
+    <p>我叫李载赣神魔</p>
     <br>
-    <p>我❤️喜欢钢铁侠、蜘蛛侠</p>
+    <p>喜欢互联网、数码</p>
     <br>
-    <p>⌨️编程 💠魔方 🎮游戏 🏓乒乓球 🏹射箭 🎨画画 🎹钢琴</p>
+    <p>⌨️编程</p>
 </template>
 </VPTeamPageTitle>
 <VPTeamMembers
