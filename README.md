@@ -11,4 +11,3 @@
 [三分钟学会参与开源，提交 pr](https://lzgsm1997.github.io/my-blog/pages/quickStart/pr/)   
 [三分钟学会 react](https://lzgsm1997.github.io/my-blog/pages/quickStart/react/)   
 [三分钟学会 React Router](https://lzgsm1997.github.io/my-blog/pages/quickStart/reactRouter/)   
-[三分钟学会 Chakra-UI](https://lzgsm1997.github.io/my-blog/pages/quickStart/chakra/)
