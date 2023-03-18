@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o}from"./app.0d6ecb8e.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Note/Note_SVG.md","lastUpdated":1679153859000}'),a={name:"Note/Note_SVG.md"};function r(s,c,n,_,p,d){return t(),o("div")}const f=e(a,[["render",r]]);export{m as __pageData,f as default};
