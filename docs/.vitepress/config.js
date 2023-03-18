@@ -1,17 +1,15 @@
 export default {
-  title: '左风的博客',
+  title: '李载赣神魔的博客',
   description: 'Just playing around.',
   base: '/my-blog/',
   head: [
-    [
-      'link',
-      { rel: 'icon', href: '/image/code.png' },
+    ['link',{ rel: 'icon', href: '/tree.ico' },
       //浏览器的标签栏的网页图标，第一个'/'会遍历public文件夹的文件
     ],
   ],
   themeConfig: {
     logo: '/image/code.png',
-    siteTitle: 'Hello World',
+    siteTitle: '首 页',
     docFooter: {
       prev: '上一页',
       next: '下一页',
@@ -24,7 +22,7 @@ export default {
       {
         text: '联系我',
         items: [
-          { text: '595563214@qq.com', link: '' },
+          { text: '2306749286@qq.com', link: '' },
         ]
       },
     ],
@@ -74,7 +72,7 @@ export default {
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/zuoFeng59556/my-blog' },
+      { icon: 'github', link: 'https://github.com/lzgsm1997/my-blog' },
     ],
     // sidebar: {
     //   '/open-layers/': OpenLayers,
