@@ -3,9 +3,7 @@ export default {
   description: 'Just playing around.',
   base: '/my-blog/',
   head: [
-    ['link',{ rel: 'icon', href: '/tree.ico' },
-      //浏览器的标签栏的网页图标，第一个'/'会遍历public文件夹的文件
-    ],
+    ['link',{ rel: 'icon', href: '/tree.ico' }],
   ],
   themeConfig: {
     logo: '/image/code.png',
