@@ -9,7 +9,7 @@ export default {
     theme: "nord",
   },
   head: [
-    ["link", { rel: "icon", href: "/favicon.ico" }],
+    ["link", { rel: "icon", href: "/code.png" }],
     ["meta", { property: "og:title", content: "李载赣神魔" }],
     ["meta", { property: "og:site_name", content: "李载赣神魔" }],
     ["meta", { property: "og:type", content: "website" }],
